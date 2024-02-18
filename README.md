@@ -1,12 +1,13 @@
 ***Machine Learning Model Comparison on Small Dataset***
-**Overview**
+
+**Overview:**
 
 This project aimed to compare the performance of various machine learning models on a small dataset containing approximately 400 samples. The objective was to identify the most effective model for classification tasks on this particular dataset.
 
-**Dataset**
+**Dataset:**
 The sample dataset consists of features like age, estimated salary and taget variable is based on whether the persons purchased the product or not. The preprocessing steps undertaken, such as data cleaning, feature scaling, or encoding categorical variables.
 
-**Models Evaluated**
+**Models Evaluated:**
 The machine learning models that were evaluated in this experiment:
 Logistic Regression
 Support Vector Machine with RBF Kernel
@@ -17,7 +18,7 @@ Random Forest Classifier
 Decision Tree Classifier
 Gradient Boosting Classifier
 
-**Results**
+**Results:**
 A summary of the performance metrics obtained for each model.
 SVM with RBF Kernel: 95% accuracy
 MLP and Naive Bayes: 94% accuracy
